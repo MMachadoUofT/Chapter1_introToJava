@@ -8,10 +8,14 @@
  I will be publishing these notes to GitHub as a way to also practice my GitHub skills.
 */
 
+//
+// 1.1 A FIRST LOOK AT JAVA
+//
+
 /* ************************** *\
 *    1.1.1 DEFINING CLASSES    *
 \* ************************** */
-public class Hello {
+public class FirstLook {
     // All code *must* be a part of a class in Java
 
     // In Java, everything is organized in classes. Whatever we want our code to do, it must be done within classes.
@@ -30,6 +34,9 @@ public class Hello {
         // This is analogous to the following line and subsequent code block at the end of a Python module:
         // if __name__ == '__main__':
 
+        /* ************************* *\
+        *    1.1.3 PRINTING THINGS    *
+        \* ************************* */
         System.out.println(13 * 5); // INTELLIJ: We can use 'sout' here to complete this line.
         // In Java, we must use semicolons to indicate the end of a line of code. Whitespace is purely for legibility.
 
