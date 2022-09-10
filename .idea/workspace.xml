@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb60397d-e91c-435b-a34f-9d1e18b311a5" name="Changes" comment="Renamed first file, created section 2's file.">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="cb60397d-e91c-435b-a34f-9d1e18b311a5" name="Changes" comment="Completed section 1.2&#10;&#10;This description is just meant to assure that I set up subject/body separation properly on IntelliJ.">
+      <change afterPath="$PROJECT_DIR$/src/ReferenceVsPrimitive.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/VariablesAndTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VariablesAndTypes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +49,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662830955244</updated>
-      <workItem from="1662830957028" duration="2040000" />
+      <workItem from="1662830957028" duration="3156000" />
     </task>
     <task id="LOCAL-00001" summary="Completed sections 1.1.1, 1.1.2">
       <created>1662831773461</created>
@@ -67,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662832532859</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Completed section 1.2&#10;&#10;This description is just meant to assure that I set up subject/body separation properly on IntelliJ.">
+      <created>1662833310624</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1662833310624</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,6 +92,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Completed sections 1.1.1, 1.1.2" />
     <MESSAGE value="Renamed first file, created section 2's file." />
-    <option name="LAST_COMMIT_MESSAGE" value="Renamed first file, created section 2's file." />
+    <MESSAGE value="Completed section 1.2&#10;&#10;This description is just meant to assure that I set up subject/body separation properly on IntelliJ." />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed section 1.2&#10;&#10;This description is just meant to assure that I set up subject/body separation properly on IntelliJ." />
   </component>
 </project>
