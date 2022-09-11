@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb60397d-e91c-435b-a34f-9d1e18b311a5" name="Changes" comment="Began section 1.3&#10;&#10;I'm gonna stop including subheaders, they're really just not necessary for the purposes of these notes.">
+    <list default="true" id="cb60397d-e91c-435b-a34f-9d1e18b311a5" name="Changes" comment="Completed section 1.3 notes">
+      <change afterPath="$PROJECT_DIR$/src/Strings.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ReferenceVsPrimitive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReferenceVsPrimitive.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +49,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662830955244</updated>
-      <workItem from="1662830957028" duration="4482000" />
+      <workItem from="1662830957028" duration="5385000" />
     </task>
     <task id="LOCAL-00001" summary="Completed sections 1.1.1, 1.1.2">
       <created>1662831773461</created>
@@ -79,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662850322646</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Completed section 1.3 notes">
+      <created>1662854381791</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1662854381791</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,6 +108,7 @@
     <MESSAGE value="Renamed first file, created section 2's file." />
     <MESSAGE value="Completed section 1.2&#10;&#10;This description is just meant to assure that I set up subject/body separation properly on IntelliJ." />
     <MESSAGE value="Began section 1.3&#10;&#10;I'm gonna stop including subheaders, they're really just not necessary for the purposes of these notes." />
-    <option name="LAST_COMMIT_MESSAGE" value="Began section 1.3&#10;&#10;I'm gonna stop including subheaders, they're really just not necessary for the purposes of these notes." />
+    <MESSAGE value="Completed section 1.3 notes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed section 1.3 notes" />
   </component>
 </project>
