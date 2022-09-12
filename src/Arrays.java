@@ -24,8 +24,7 @@ public class Arrays {
         // We can really assign the size of an array whatever we want, as long as it's at assignment.
 
         // Here's another way to construct an array, where we also initialize it, to boot:
-        int[] numericals;
-        numericals = new int[]{1, 2, 3, 4, 5, 6, 7};
+        int[] numericals = {1, 2, 3, 4, 5, 6, 7};
 
         // We can also find the length of an array (and use it!)
         int[] anotherIntArray = new int[numbers.length];

@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb60397d-e91c-435b-a34f-9d1e18b311a5" name="Changes" comment="Created and completed 1.6 notes">
-      <change afterPath="$PROJECT_DIR$/src/Aliases.java" afterDir="false" />
+    <list default="true" id="cb60397d-e91c-435b-a34f-9d1e18b311a5" name="Changes" comment="Created and completed 1.7 notes">
+      <change afterPath="$PROJECT_DIR$/src/ControlStructures.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662830955244</updated>
-      <workItem from="1662830957028" duration="13768000" />
+      <workItem from="1662830957028" duration="17290000" />
     </task>
     <task id="LOCAL-00001" summary="Completed sections 1.1.1, 1.1.2">
       <created>1662831773461</created>
@@ -108,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662945701259</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Created and completed 1.7 notes">
+      <created>1662992012096</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1662992012096</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,7 +142,8 @@
     <MESSAGE value="Created and completed 1.4 notes" />
     <MESSAGE value="Created and completed 1.5 notes" />
     <MESSAGE value="Created and completed 1.6 notes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created and completed 1.6 notes" />
+    <MESSAGE value="Created and completed 1.7 notes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created and completed 1.7 notes" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
